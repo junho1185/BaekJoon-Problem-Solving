@@ -2,7 +2,7 @@ from sys import stdin
 
 n = int(stdin.readline())
 
-numbers = []
+numbers = []        
 
 for i in range(n):
     number = int(stdin.readline())
